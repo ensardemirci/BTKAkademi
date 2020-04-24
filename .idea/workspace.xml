@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb1caa03-ec4c-48fa-9be5-e30a58c32743" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ayUqS0iL5JLYGoKffMvl4dEYVm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb1caa03-ec4c-48fa-9be5-e30a58c32743" name="Default Changelist" comment="" />
+      <created>1587707518035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587707518035</updated>
+      <workItem from="1587707520021" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="728" y="351" key="#com.intellij.tools.ToolEditorDialog" timestamp="1587707621815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="351" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1587707621815" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1587707758522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1587707758522" />
+  </component>
+</project>
