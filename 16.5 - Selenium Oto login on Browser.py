@@ -20,5 +20,5 @@ class Github:
 
         self.browser.find_element_by_xpath('//*[@id="login"]/form/div[4]/input[9]').click()
 
-github = Github('ensardemirci93@gmail.com','Mehparem2893')
+github = Github('','')
 github.signIn()
