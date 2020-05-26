@@ -38,6 +38,6 @@ class Insta:
 
 
 
-insta = Insta('hugegamerhobbit','1806ens9393')
+insta = Insta('','')
 insta.signIn()
 insta.getFollowers()
