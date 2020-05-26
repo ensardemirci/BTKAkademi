@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb1caa03-ec4c-48fa-9be5-e30a58c32743" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/17.3 - Selenium İnstagram takipçi listesi Full Scroll .py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exersice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exersice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
@@ -41,10 +42,10 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
     </key>
   </component>
@@ -100,7 +101,7 @@
       <workItem from="1589705437883" duration="3888000" />
       <workItem from="1589726775203" duration="1039000" />
       <workItem from="1590375205262" duration="14474000" />
-      <workItem from="1590461220506" duration="2460000" />
+      <workItem from="1590461220506" duration="9770000" />
     </task>
     <servers />
   </component>
@@ -120,26 +121,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="728" y="351" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1587707621815" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590463619577">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590470185292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590463619577" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590463619577">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590470185292" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590470185292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590463619577" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590463619577">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590470185292" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590470185292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590463619577" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590463619577">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590470185292" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590470185292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590463619577" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590470185292" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1587709311630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -152,6 +153,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BTKAkademi$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1587713313961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1590463619567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1590470185276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
