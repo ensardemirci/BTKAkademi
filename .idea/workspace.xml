@@ -2,15 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb1caa03-ec4c-48fa-9be5-e30a58c32743" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.1 - Numpy Giriş .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.2 - Numpy Dizileri ile Çalışma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.4 - Numpy Dizi Operasyonları.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.4 - Numpy Dizilerin İndekslenmesi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.5 - Numpy Alıştırmaları.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BTK Akademi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BTK Akademi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Selenium Bot Yapımı İnstagram/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Selenium Bot Yapımı İnstagram/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.2 - Pandas Serileri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.3 - Python Pandas DataFrame Tanımlamaları.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/Exersice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exersice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exersice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1 - Ic Ice Fonksiyonlar - Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/12.1 - Ic Ice Fonksiyonlar - Encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.2 - Fonksiyondan fonksiyon döndürme.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/12.2 - Fonksiyondan fonksiyon döndürme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.4 - Decorator Fonksiyonlar.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/12.4 - Decorator Fonksiyonlar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.1 - İterations.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 - İterators/13.1 - İterations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.1 - Generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/14 - Generators/14.1 - Generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.6 - Requests ve JSON modülleri basit.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 - Requests,BeautifulSoup ve JSON/15.6 - Requests ve JSON modülleri basit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.7 - Requests ile basit exchange uygulama.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 - Requests,BeautifulSoup ve JSON/15.7 - Requests ile basit exchange uygulama.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15.8 - Requests ve BeautifulSoup n11 ürün listesi(HTML).py" beforeDir="false" afterPath="$PROJECT_DIR$/15 - Requests,BeautifulSoup ve JSON/15.8 - Requests ve BeautifulSoup n11 ürün listesi(HTML).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.3 - Selenium Eklentisi ve Web Etkileşim.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 - Selenium/16.3 - Selenium Eklentisi ve Web Etkileşim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.4 - Selenium Otomatik girdi arama ve liste.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 - Selenium/16.4 - Selenium Otomatik girdi arama ve liste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16.5 - Selenium Oto login on Browser.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 - Selenium/16.5 - Selenium Oto login on Browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.2 - Selenium İnstagram takipçi listesi kısa.py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Selenium Bot Yapımı İnstagram/17.2 - Selenium İnstagram takipçi listesi kısa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.3 - Selenium İnstagram takipçi listesi Full Scroll .py" beforeDir="false" afterPath="$PROJECT_DIR$/17 - Selenium Bot Yapımı İnstagram/17.3 - Selenium İnstagram takipçi listesi Full Scroll .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.1 - Numpy Giriş .py" beforeDir="false" afterPath="$PROJECT_DIR$/19 - Numpy/19.1 - Numpy Giriş .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.2 - Numpy Dizileri ile Çalışma.py" beforeDir="false" afterPath="$PROJECT_DIR$/19 - Numpy/19.2 - Numpy Dizileri ile Çalışma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.4 - Numpy Dizi Operasyonları.py" beforeDir="false" afterPath="$PROJECT_DIR$/19 - Numpy/19.4 - Numpy Dizi Operasyonları.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.4 - Numpy Dizilerin İndekslenmesi.py" beforeDir="false" afterPath="$PROJECT_DIR$/19 - Numpy/19.4 - Numpy Dizilerin İndekslenmesi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.5 - Numpy Alıştırmaları.py" beforeDir="false" afterPath="$PROJECT_DIR$/19 - Numpy/19.5 - Numpy Alıştırmaları.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exersice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foksiyonlar Uygulama -1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/Foksiyonlar Uygulama -1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonksiyonlar Uygulama 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/Fonksiyonlar Uygulama 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonksiyonlar Uygulama 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/Fonksiyonlar Uygulama 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fonksiyonlar Uygulama 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Functions/Fonksiyonlar Uygulama 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/16 - Selenium/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/16 - Selenium/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +66,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20 - Pandas" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\20 - Pandas" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\12 - Functions" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\19 - Numpy" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\17 - Selenium Bot Yapımı İnstagram" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\16 - Selenium" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\17 - Selenium Bot Yapımı İnstagram" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\16 - Selenium" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
     </key>
   </component>
@@ -128,7 +157,8 @@
       <workItem from="1589705437883" duration="3888000" />
       <workItem from="1589726775203" duration="1039000" />
       <workItem from="1590375205262" duration="14474000" />
-      <workItem from="1590461220506" duration="15998000" />
+      <workItem from="1590461220506" duration="16235000" />
+      <workItem from="1590552007906" duration="4184000" />
     </task>
     <servers />
   </component>
@@ -148,26 +178,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="728" y="351" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1587707621815" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590496191918">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590555950430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590496191918" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590496191918">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590555950430" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590555950430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590496191918" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590496191918">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590555950430" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590555950430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590496191918" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590496191918">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590555950430" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590555950430">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590496191918" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590555950430" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1587709311630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -180,6 +210,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BTKAkademi$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1587713313961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1590496191912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1590555821287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
