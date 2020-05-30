@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb1caa03-ec4c-48fa-9be5-e30a58c32743" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.5 - Pandas DataFrama ile Satır Sütun Seçimleri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.6 - Pandas DataFrame ile Filtreleme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.7 - Uygulama_Imdb Filmlerinin Veri Analizi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.8 - Pandas DataFrame ile Froupby Kullanımı.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deneme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.10 - Pandas ile String Kullanımı.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.11 - Pandas ile Join ve Merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.12 - Pandas DataFrame Metodları.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.13 - Uygulama Nba Veri analizi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.14 - Uygulama YouTube veri analizi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Pandas/20.9 - Pandas Kayıp Ve Bozuk Veri Analizi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 - Pandas/20.5 - Pandas DataFrama ile Satır Sütun Seçimleri.py" beforeDir="false" afterPath="$PROJECT_DIR$/20 - Pandas/20.5 - Pandas DataFrama ile Satır Sütun Seçimleri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 - Pandas/20.8 - Pandas DataFrame ile Froupby Kullanımı.py" beforeDir="false" afterPath="$PROJECT_DIR$/20 - Pandas/20.8 - Pandas DataFrame ile Groupby Kullanımı.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20 - Pandas/sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/20 - Pandas/Datasets/sample.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deneme.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Exersice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exersice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +33,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BTKAkademi" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,26 +63,64 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20 - Pandas" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\20 - Pandas" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\12 - Functions" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\19 - Numpy" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\17 - Selenium Bot Yapımı İnstagram" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\20 - Pandas" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\Kendi Projelerim" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\17 - Selenium Bot Yapımı İnstagram" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\16 - Selenium" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\20 - Pandas" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\20 - Pandas\Datasets" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\12 - Functions" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\19 - Numpy" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Exersice">
+    <configuration name="20.12 - Pandas DataFrame Metodları" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BTK Akademi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20 - Pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20 - Pandas/20.12 - Pandas DataFrame Metodları.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20.5 - Pandas DataFrama ile Satır Sütun Seçimleri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BTK Akademi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20 - Pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20 - Pandas/20.5 - Pandas DataFrama ile Satır Sütun Seçimleri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Exersice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BTK Akademi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +137,25 @@
       <option name="SCRIPT_NAME" value="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\Exersice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exersice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BTK Akademi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20 - Pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\Exersice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -146,6 +209,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Exersice" />
+        <item itemvalue="Python.20.12 - Pandas DataFrame Metodları" />
+        <item itemvalue="Python.Exersice (1)" />
+        <item itemvalue="Python.20.5 - Pandas DataFrama ile Satır Sütun Seçimleri" />
         <item itemvalue="Python.YTAboneKas" />
       </list>
     </recent_temporary>
@@ -177,6 +243,7 @@
       <workItem from="1590552007906" duration="8942000" />
       <workItem from="1590613514836" duration="1543000" />
       <workItem from="1590633975613" duration="20931000" />
+      <workItem from="1590806370823" duration="12696000" />
     </task>
     <servers />
   </component>
@@ -184,6 +251,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590815327409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590815327409" />
     <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590463710959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,30 +271,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590560766127" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1590676516408">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1590819639232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590676516408" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1590676516408">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590819639232" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1590819639232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590676516408" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1590676516408">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590819639232" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1590819639232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590676516408" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1590676516408">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590819639232" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1590819639232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590676516408" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1587709311630">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590819639232" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1590815287626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1587709311630" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590815287626" />
+    <state x="540" y="175" width="1178" height="689" key="editAsTableFormatDialogDimension" timestamp="1590815406115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" width="1178" height="689" key="editAsTableFormatDialogDimension/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590815406115" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590647639396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,6 +308,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BTKAkademi$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1587713313961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1590670354385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1590819639222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

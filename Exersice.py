@@ -1,50 +1,75 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-import time
+import pandas as pd
 
-class YTTakipkazan:
-    def __init__(self,username,password):
-        self.browser = webdriver.Firefox()
-        self.username = username
-        self.password = password
+df = pd.read_csv('20 - Pandas/Datasets/youtube-ing.csv')
 
-    def signIn(self):
-        self.browser.get('https://takipkazan.com')
-        time.sleep(1)
+# 1
+# result = df.head(10)
 
-        self.browser.maximize_window()
-        time.sleep(1)
+# 2
+# result = df[5:].head()
 
-        self.browser.find_element_by_xpath('/html/body/header/div/div[2]/form/input[1]').send_keys(self.username)
-        self.browser.find_element_by_xpath('/html/body/header/div/div[2]/form/input[2]').send_keys(self.password)
-        self.browser.find_element_by_xpath('/html/body/header/div/div[2]/form/input[3]').click()
-        time.sleep(5)
+# 3
+# result = df.info()
+# result = df.columns
 
-    def getPoints(self):
-        act = webdriver.ActionChains(self.browser)
-        ilk = ''
-        while True:
-            self.browser.get('https://takipkazan.com/p.php?p=youtube')
-            time.sleep(5)
-            if self.browser.find_element_by_xpath('/html/body/div[1]/div[2]/center/div/center/a'):
-                self.browser.find_element_by_xpath('/html/body/div[1]/div[2]/center/div/center/a').click()
-                if self.browser.find_element_by_id('ytPlayer'):
-                    self.browser.find_element_by_id('ytPlayer').click()
-                    son = self.browser.find_element_by_xpath('/html/body/div[1]/div[2]/div[4]/center/a[1]').get_attribute('href')
-                    print('ilk',ilk)
-                    print('son',son)
+# 4
+# result = df.drop(['thumbnail_link','comments_disabled','ratings_disabled','video_error_or_removed','description'],axis=1)
+# result = df.columns
 
-                    if ilk == son:
-                        self.browser.find_element_by_xpath('/html/body/div[1]/div[2]/div[4]/center/a[1]').click()
-                    else:
-                        time.sleep(30)
-                        ilk = son
+# 5
+# result = [df['likes'].mean(),df['dislikes'].mean()]
 
-                else:
-                    continue
-            else:
-                continue
+# 6
+# result = df[['likes','dislikes']].head(50)
 
-yt = YTTakipkazan('hgh2828hgh', '123qwe123')
-yt.signIn()
-yt.getPoints()
+# 7
+# result = df[['title','views']].sort_values('views', ascending=False).head(1)
+
+
+# 8
+# result = df[['title','views']].sort_values('views', ascending=False).tail(1)
+
+# 9
+# result = df[['title','views']].sort_values('views', ascending=False).head(10)
+
+# 10
+# result = df.groupby('category_id').mean().sort_values('likes')['likes']
+
+# 11
+# result = df.groupby('category_id')[['category_id','comment_count']].sum().sort_values('comment_count', ascending=False)
+
+# 12
+# result = df.groupby('category_id').count()['video_id'] #Alternatif
+# result = df['category_id'].value_counts()
+
+
+# 13
+# df['Yeni'] = df['title'].str.len()
+# result = df[['title','Yeni']]
+
+
+# 14
+# df['TagSayi'] = df['tags'].str.split('|').apply(len) #alternetif
+# df['TagSayi'] = df['tags'].apply(lambda x: len(x.split('|')))
+# result = df[['tags','TagSayi']]
+
+# 15
+def likedislikeoranhesapla(dataset):
+    likesList = list(dataset["likes"])
+    dislikesList = list(dataset["dislikes"])
+
+    liste = list(zip(likesList,dislikesList))
+
+    oranListesi = []
+
+    for like,dislike  in liste:
+        if (like + dislike) == 0:
+            oranListesi.append(0)
+        else:
+            oranListesi.append(like/(like+dislike))
+
+    return oranListesi
+
+df["beğeni_orani"] = likedislikeoranhesapla(df)
+
+print(df.sort_values("beğeni_orani",ascending=False)[["title","likes","dislikes","beğeni_orani"]])
