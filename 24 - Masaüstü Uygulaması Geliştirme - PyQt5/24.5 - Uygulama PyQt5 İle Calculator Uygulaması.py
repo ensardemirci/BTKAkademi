@@ -9,7 +9,7 @@ class MyWindow(QMainWindow):
 
         self.setWindowTitle('Calculator')
         self.setGeometry(200,200,700,700)
-        self.setWindowIcon(QIcon('icon.png'))
+        self.setWindowIcon(QIcon('../icon.png'))
         self.setToolTip('Prototip Calculator')
         self.initUI()
 
