@@ -7,19 +7,9 @@ myclient = pymongo.MongoClient('mongodb+srv://ensardemirci:gvqQjRi0rXa0yIvq@clus
 mydb = myclient['node-app']
 mycollection = mydb['products']
 
-# delete_one
-# delete_many
+# result = mycollection.find().sort('name', -1)
+# result = mycollection.find().sort('price', -1)
+result = mycollection.find().sort([('name',1),('price',-1)])
 
-for i in mycollection.find():
-    print(i)
-
-print('*'*50)
-
-# mycollection.delete_one({'name':'Samsung S5'})
-# mycollection.delete_many({'name':{'$regex':'^S'}})
-
-result = mycollection.delete_many({})
-print(f'{result.deleted_count} adet kayıt silindi')
-
-for i in mycollection.find():
+for i in result:
     print(i)
