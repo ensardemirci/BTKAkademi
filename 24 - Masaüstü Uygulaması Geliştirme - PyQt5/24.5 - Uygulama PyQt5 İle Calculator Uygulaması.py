@@ -2,7 +2,6 @@ import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication,QMainWindow, QToolTip
 from PyQt5.QtGui import QIcon
-
 class MyWindow(QMainWindow):
     def __init__(self):
         super(MyWindow, self).__init__()
