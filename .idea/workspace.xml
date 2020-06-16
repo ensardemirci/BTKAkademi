@@ -17,25 +17,11 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="512" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,28 +49,35 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\25 - Bootstrap" />
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\24 - Masaüstü Uygulaması Geliştirme - PyQt5" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
+      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\22 - SQL Veritabanı - MySql &amp; SQLite\school-app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\25 - Bootstrap" />
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\24 - Masaüstü Uygulaması Geliştirme - PyQt5" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\24 - Masaüstü Uygulaması Geliştirme - PyQt5" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\23 - NoSQL Database - MongoDb" />
       <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\22- SQLVeritabanı - MySql &amp; SQLite" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\22- SQLVeritabanı - MySql &amp; SQLite\school-app" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\22 - SQL Veritabanı - MySql &amp; SQLite\school-app" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\22 - SQL Veritabanı - MySql &amp; SQLite" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\21 - Matplotlib - Veri Görselleştirme" />
-      <recent name="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\20 - Pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Deneme">
+  <component name="RunManager" selected="JavaScript Debug.Deneme.html">
+    <configuration name="Deneme.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BTKAkademi/Deneme.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Deneme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BTK Akademi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,28 +114,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exersice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exersice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BTK Akademi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20 - Pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Ensar Belgeleri\PycharmProjects\BTKAkademi\Exersice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,6 +209,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Deneme.html" />
         <item itemvalue="Python.Deneme" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.Exersice (1)" />
@@ -286,7 +258,12 @@
       <workItem from="1591334858614" duration="1611000" />
       <workItem from="1591412151473" duration="1329000" />
       <workItem from="1591585832465" duration="2755000" />
-      <workItem from="1591961906006" duration="1125000" />
+      <workItem from="1591961906006" duration="2535000" />
+      <workItem from="1592016810926" duration="3578000" />
+      <workItem from="1592190665714" duration="1266000" />
+      <workItem from="1592199452436" duration="1042000" />
+      <workItem from="1592275021525" duration="2160000" />
+      <workItem from="1592277372013" duration="15923000" />
     </task>
     <servers />
   </component>
@@ -311,10 +288,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591161817684" />
-    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591189661100">
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592019781244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591189661100" />
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592019781244" />
     <state x="640" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1590902535433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -328,50 +306,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="146" key="#dbmanager/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591162842191" />
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1591962161453">
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1592279210771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591268078174" />
     <state x="2475" y="399" key="FileChooserDialogImpl/0.0.1920.1040/1920.182.1440.860@1920.182.1440.860" timestamp="1591343330563" />
-    <state x="740" y="262" key="FileChooserDialogImpl/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1591962161453" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591962360207">
+    <state x="740" y="262" key="FileChooserDialogImpl/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592279210771" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1592048181717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591592819343" />
     <state width="1412" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.182.1440.860@1920.182.1440.860" timestamp="1591415204523" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1591962360207" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591962360207">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592048181717" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1592048181717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591592819343" />
     <state width="1412" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/1920.182.1440.860@1920.182.1440.860" timestamp="1591415204523" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1591962360207" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591962360207">
+    <state width="938" height="282" key="GridCell.Tab.0.center/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592048181717" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1592048181717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591592819343" />
     <state width="1412" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/1920.182.1440.860@1920.182.1440.860" timestamp="1591415204523" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1591962360207" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591962360207">
+    <state width="938" height="282" key="GridCell.Tab.0.left/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592048181717" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1592048181717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589727815122" />
     <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591592819343" />
     <state width="1412" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/1920.182.1440.860@1920.182.1440.860" timestamp="1591415204523" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1591962360207" />
+    <state width="938" height="282" key="GridCell.Tab.0.right/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592048181717" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1591158079879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591158079879" />
-    <state x="494" y="85" key="SettingsEditor" timestamp="1591963043812">
+    <state x="337" y="78" width="1296" height="838" key="SettingsEditor" timestamp="1592282669790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1587709311630" />
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591068134072" />
-    <state x="494" y="85" key="SettingsEditor/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1591963043812" />
+    <state x="337" y="78" width="1296" height="838" key="SettingsEditor/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592282669790" />
     <state x="2449" y="528" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591334924503">
       <screen x="1920" y="182" width="1440" height="860" />
     </state>
@@ -384,17 +362,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="591" y="217" width="737" height="606" key="find.popup/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1591162634755" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590647639396">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592300682802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.179.1440.860@0.0.1920.1040" timestamp="1589358000196" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.182.1440.860@0.0.1920.1040" timestamp="1590647639396" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.182.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592300682802" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BTKAkademi$dbmanager__1_.coverage" NAME="dbmanager (1) Coverage Results" MODIFIED="1591187947023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BTKAkademi$Exersice__1_.coverage" NAME="Exersice (1) Coverage Results" MODIFIED="1591189711472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BTKAkademi$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1587713313961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BTKAkademi$Deneme.coverage" NAME="Deneme Coverage Results" MODIFIED="1591962194459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BTKAkademi$Deneme.coverage" NAME="Deneme Coverage Results" MODIFIED="1592019532353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BTKAkademi$Exersice.coverage" NAME="Exersice Coverage Results" MODIFIED="1591163127157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
