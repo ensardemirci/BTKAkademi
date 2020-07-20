@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -28,18 +29,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/movies" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../MyPro" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\static\css" />
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\templates\user" />
       <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\templates\movies" />
       <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\movies" />
       <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\templates\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\static\css" />
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog\static\js" />
+      <recent name="F:\Ensar Belgeleri\PycharmProjects\BTKAkademi\26 - Django\catalog" />
     </key>
   </component>
   <component name="RunManager">
@@ -78,6 +83,9 @@
       <option name="presentableId" value="Default" />
       <updated>1593675298996</updated>
       <workItem from="1593675300152" duration="9915000" />
+      <workItem from="1593744808207" duration="15440000" />
+      <workItem from="1593786088509" duration="597000" />
+      <workItem from="1594027711104" duration="19000" />
     </task>
     <servers />
   </component>
@@ -85,9 +93,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593676855331">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594027728175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593676855331" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594027728175" />
   </component>
 </project>
